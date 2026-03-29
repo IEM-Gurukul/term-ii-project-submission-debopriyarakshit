@@ -27,7 +27,7 @@ It processes user input and updates the model accordingly.
 
 
 
----
+
 
 ## OOP Concepts Used
 
@@ -52,7 +52,7 @@ ArrayList is used to store books
 Provides dynamic resizing
 Enables easy searching and iteration
 
----
+
 
 ## Proposed Architecture Description
 The Library Management System is designed using the MVC (Model-View-Controller) architecture, which separates the application into three components:
@@ -65,7 +65,7 @@ Advantages:
 Better code organization
 Easy maintenance
 Scalable and flexible design
----
+
 
 ## How to Run
 The Library Management System is designed using the MVC (Model-View-Controller) architecture, which separates the application into three components:
@@ -78,7 +78,7 @@ Advantages:
 Better code organization
 Easy maintenance
 Scalable and flexible design
----
+
 
 ## Git Discipline Notes
 Minimum 10 meaningful commits required.
